@@ -25,8 +25,3 @@ console.log(firstNum + secondNum + thirdNum + fourthNum + fifthNum + sixthNum + 
     //const mySum = ??? 
 //};
 //Non mi viene in mente un modo per aggiungere il valore espresso in un'iterazione del contatore al suo successivo  e per il successivo la somma dei due valori precedenti. Il programma funziona, ma non è ottimizzato.
-
-
-
-
-
